@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "m5speaker",
+			"path": ".."
+		},
+		{
+			"name": "m5speaker-main",
+			"path": "../../../../Desktop/m5speaker-main"
+		}
+	],
+	"settings": {}
+}
